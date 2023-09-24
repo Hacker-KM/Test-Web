@@ -1,0 +1,11 @@
+.column {
+  display: flex;
+  justify-content: space-between; 
+  width: 70% ;
+  margin-left: 25px;
+  margin-top: -230px;
+}
+.fusion{
+  display: flex;
+  justify-content: space-between; 
+}
